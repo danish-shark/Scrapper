@@ -1,0 +1,7 @@
+com/edulix/scrapper/Engine.class
+com/edulix/scrapper/ExtractData.class
+com/edulix/scrapper/SaveData.class
+com/edulix/scrapper/GetAdmitList.class
+com/edulix/beans/AcadDetails.class
+com/edulix/beans/AppliedUni.class
+com/edulix/beans/Student.class
